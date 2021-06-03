@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Munaver-vp
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# How To Use 
 
-<!---
-Munaver-vp/Munaver-vp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 1.Edit main.py
+# 2.say("<Your Text>")
+# 3.Title("Your Title")
+# 4.File("Yourimage.jpg")
+
+# pip install pyttsx3
+  
